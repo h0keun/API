@@ -77,3 +77,10 @@
       return bitmap;
   }
   ```
+## API
+AsyncTask, HttpURLConnection을 사용해서 직접 네트워크 통신을 구현하려면 여러가지 귀찮은 작엄들이 많다.  
+1. 네트워크 통신 연결/해제
+2. 가져온 데이터 파싱
+3. 에러처리
+
+때문에 Retrofit을 통해 API통신을 하는데(REST API), 해당 지식 습득후 이어나가도록 하겠다.
