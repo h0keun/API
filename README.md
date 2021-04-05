@@ -83,7 +83,6 @@ AsyncTask, HttpURLConnection을 사용해서 직접 네트워크 통신을 구�
 2. 가져온 데이터 파싱
 3. 에러처리
 
-때문에 Retrofit을 통해 API통신을 하는데(REST API), 해당 지식 습득후 이어나가도록 하겠다.
-
++ Go (📌)[https://github.com/h0keun/mix_project]  
 네트워크와 통신을 위한 라이브러리중 대표적으로 OKHttp, Retrofit, Volley 가 있는데 간단히 등장 배격을 설명하면 다음과 같다.[LINK](https://yejinson97gaegul.tistory.com/82)
 
