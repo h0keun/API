@@ -77,6 +77,9 @@
       return bitmap;
   }
   ```
+  
+  <img src="https://user-images.githubusercontent.com/63087903/115215308-591c4000-a13e-11eb-9fe8-8d9221da0724.jpg" width="250" height="530">
+  
 ## API [📌](https://github.com/h0keun/mix_project)  
 AsyncTask, HttpURLConnection을 사용해서 직접 네트워크 통신을 구현하려면 여러가지 귀찮은 작엄들이 많다.  
 1. 네트워크 통신 연결/해제
